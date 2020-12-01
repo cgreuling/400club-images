@@ -45,12 +45,20 @@ You can glone the repository to allow you to retrieve updates by using a single 
 #### Linux
 * TBD
   
-### Retrieving updates
-* Windows - cd Documents\Out of the Park Developments\OOTP21\saved_games\400club.lg\news\html\images && git pull
-* Mac - cd Users\{user}\Library\Application Support\Out of the Park Developments\OOTP21\saved_games\400club.lg\news\html\images && git pull
-* Linux - TBD
+### Getting updates
+#### Windows
+* cd Documents\Out of the Park Developments\OOTP21\saved_games\400club.lg\news\html\images
+* git pull
+* You now have the most up-to-date images pack
 
-After git pull is finished you will have the up-to-date images pack installed.
+#### Mac
+* cd Users\{user}\Library\Application Support\Out of the Park Developments\OOTP21\saved_games\400club.lg\news\html\images
+* git pull
+* You now have the most up-to-date images pack
+
+#### Linux
+* TBD
+
 
  
  
