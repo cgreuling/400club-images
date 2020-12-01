@@ -14,11 +14,12 @@ You can download the current state of the images folder by following the steps b
 ## Git clone installation
 You can glone the repository to allow you to retrieve updates by using a single command.
 
-* Make sure you have the Git client installed on your computer
- * Windows - https://git-scm.com/download/win
- * Mac - https://git-scm.com/download/mac
- * Linux - https://git-scm.com/download/linux
-* Once you have a Git client installed you can clone the repository like so
+### Make sure you have the Git client installed on your computer
+* Windows - https://git-scm.com/download/win
+* Mac - https://git-scm.com/download/mac
+* Linux - https://git-scm.com/download/linux
+ 
+### Once you have a Git client installed you can clone the repository like so
  * Windows
   * cd Documents\Out of the Park Developments\OOTP21\saved_games\400club.lg\news\html
   * rename images to images.backup
@@ -31,11 +32,13 @@ You can glone the repository to allow you to retrieve updates by using a single 
   * You now have the most up-to-date images pack installed
  * Linux
   * TBD
-* Retrieving updates
- * Windows - cd Documents\Out of the Park Developments\OOTP21\saved_games\400club.lg\news\html\images && git pull
- * Mac - cd Users\{user}\Library\Application Support\Out of the Park Developments\OOTP21\saved_games\400club.lg\news\html\images && git pull
- * Linux - TBD
-* After git pull is finished you will have the up-to-date images pack installed.
+  
+### Retrieving updates
+* Windows - cd Documents\Out of the Park Developments\OOTP21\saved_games\400club.lg\news\html\images && git pull
+* Mac - cd Users\{user}\Library\Application Support\Out of the Park Developments\OOTP21\saved_games\400club.lg\news\html\images && git pull
+* Linux - TBD
+
+After git pull is finished you will have the up-to-date images pack installed.
 
  
  
