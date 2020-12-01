@@ -7,10 +7,10 @@ You can download the current state of the images folder by following the steps b
 #### Download zip file from https://github.com/cgreuling/400club-images/archive/main.zip
 
 #### Windows
-* Unzip to Documents\Out of the Park Developments\OOTP21\saved_games\400club.lg\news\html\images
+* Unzip to C:\Users\\%username%\Documents\Out of the Park Developments\OOTP21\saved_games\400club.lg\news\html\images
 
 #### Mac
-* Unzip to Users\\%username%\Library\Application Support\Out of the Park Developments\OOTP21\saved_games\400club.lg\news\html\images
+* Unzip to \Users\\%username%\Library\Application Support\Out of the Park Developments\OOTP21\saved_games\400club.lg\news\html\images
 
 #### Linux
 * TBD
@@ -31,13 +31,13 @@ You can glone the repository to allow you to retrieve updates by using a single 
 ### Clone git repository
 
 #### Windows
-* cd Documents\Out of the Park Developments\OOTP21\saved_games\400club.lg\news\html
+* cd C:\Users\\%username%\Documents\Out of the Park Developments\OOTP21\saved_games\400club.lg\news\html
 * rename images to images.backup
 * git clone https://github.com/cgreuling/400club-images.git images
 * You now have the most up-to-date images pack installed
 
 #### Mac
-* cd Users\{user}\Library\Application Support\Out of the Park Developments\OOTP21\saved_games\400club.lg\news\html
+* cd \Users\\%username%\Library\Application Support\Out of the Park Developments\OOTP21\saved_games\400club.lg\news\html
 * rename images to images.backup
 * git clone https://github.com/cgreuling/400club-images.git images
 * You now have the most up-to-date images pack installed
@@ -47,12 +47,12 @@ You can glone the repository to allow you to retrieve updates by using a single 
   
 ### Getting updates
 #### Windows
-* cd Documents\Out of the Park Developments\OOTP21\saved_games\400club.lg\news\html\images
+* cd C:\Users\\%username%\Documents\Out of the Park Developments\OOTP21\saved_games\400club.lg\news\html\images
 * git pull
 * You now have the most up-to-date images pack
 
 #### Mac
-* cd Users\{user}\Library\Application Support\Out of the Park Developments\OOTP21\saved_games\400club.lg\news\html\images
+* cd \Users\\%username%\Library\Application Support\Out of the Park Developments\OOTP21\saved_games\400club.lg\news\html\images
 * git pull
 * You now have the most up-to-date images pack
 
