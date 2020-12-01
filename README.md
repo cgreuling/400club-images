@@ -10,7 +10,7 @@ You can download the current state of the images folder by following the steps b
 * Unzip to Documents\Out of the Park Developments\OOTP21\saved_games\400club.lg\news\html\images
 
 #### Mac
-* Unzip to Users\{user}\Library\Application Support\Out of the Park Developments\OOTP21\saved_games\400club.lg\news\html\images
+* Unzip to Users\%username%\Library\Application Support\Out of the Park Developments\OOTP21\saved_games\400club.lg\news\html\images
 
 #### Linux
 * TBD
